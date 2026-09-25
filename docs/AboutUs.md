@@ -9,15 +9,14 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ## Project team
 
-### John Doe
+### Josthan Wong
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/josthan12.png" width="200px">
 
-[[homepage](http://www.comp.nus.edu.sg/~damithch)]
-[[github](https://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](https://github.com/josthan12)]
 
-* Role: Project Advisor
+* Role: Democratic Member
+* Responsibilities: TBC
 
 ### Jane Doe
 
